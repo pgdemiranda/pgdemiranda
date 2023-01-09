@@ -39,7 +39,16 @@ Tools used:
 
 We answered both questions by delivering two csv files containing a list of 157 properties that can be acquired at a reasonable price by the company and sold in different seasons making a good profit. If House Rocket acquire and sell all the suggested properties, it can be expected a total profit of **US$24222890.20**
 
+### [Data Manipulation](https://github.com/pgdemiranda/data_motors)
+This is an exercise to understand the basics of Python, practice data manipulation, and also have a grip on the libraries and packages of this programming language. We also exercised code versioning, both in local and remote repositories. The goal was to produce a list of motorcycles, according to a series of specifications, that could be purchased by a company with the purpose of obtaining profit from their resale.
 
-## You can reach me through my E-Mail or LinkedIn
+Tools Used:
+1. Python 3.10.8;
+2. VS Code;
+3. Jupyter Notebook;
+4. Git and Github;
+5. Streamlit Cloud.
+
+## You can reach me through my e-Mail or LinkedIn
 - pgdemiranda@gmail.com
 - https://www.linkedin.com/in/pablo-gomes-miranda/
