@@ -11,8 +11,11 @@ I believe that my long experience in Education and History has given me good com
 
 ## Data Science Projects:
 
+### **In Progress** [Insiders](https://github.com/pgdemiranda/insiders)
+This is a **Clusterization project**
+
 ### **In Progress** [Health Insurance Cross Sell](https://github.com/pgdemiranda/health_insurance-cs)
-This is a Learning to Rank (LTR) project in which the objective is to classify and rank clients interested in purchasing vehicle insurance. The company SafeHarbor Insurance is a fictitious insurance company made up by us, in order to provide a business context for our problem. The data have been acquired in the challenge Health Insurance Cross Sell Prediction from Kaggle, We perform a exploratory data analysis, train different classification Machine Learning models, evaluate the metrics, and test their results.
+This is a **Learning to Rank (LTR)** project in which the objective is to classify (therefore a **Classification** problem) and rank clients interested in purchasing vehicle insurance. The company SafeHarbor Insurance is a fictitious insurance company made up by us, in order to provide a business context for our problem. The data have been acquired in the challenge Health Insurance Cross Sell Prediction from Kaggle, We perform an exploratory data analysis, train different classification Machine Learning models, evaluate the metrics, and test their results.
 
 Tools used:
 1. Python 3.10.10;
