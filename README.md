@@ -11,8 +11,17 @@ I believe that my long experience in Education and History has given me good com
 
 ## Data Science Projects:
 
+### [Cardiovascular Disease Detection](https://github.com/pgdemiranda/cardio_predictor)
+This is a classification project where we were hired to develop a model that could help a medical company detect the onset of cardiovascular diseases among patients. Medical data was collected from Kaggle, and in the end, we achieved a classification model that, in the worst-case scenario, with 72% precision, could bring a return of **US$ 175,000,000.00**, and in the best-case scenario, with 78% precision, a profit of **US$ 210,000,000.00** could be expected.
+
+Tools used:
+1. Python 3.10.8;
+2. VS Code;
+3. Jupyter Notebook;
+4. Git and Github;
+
 ### [Sales Forecasting](https://github.com/pgdemiranda/rossmann-sales)
-This is a Sales Forecasting project in which we propose the sales prediction of a European pharmaceutical company, Dirk Rossmann GmbH. The data was collected via Kaggle from the Rossmann Store Sales competition. After an exploratory data analysis and the use of an algorithm called boruta to select the best features for a prediction using a XGBoost Regressor Machine Learning model, we have achieved an average prediction of sales of **€285,338,016.00** for the next six weeks and implemented the solution in a way that is easily accessible for the company's business team.
+This is a Regression problem for a sales Forecasting in which we propose the sales prediction of a European pharmaceutical company, Dirk Rossmann GmbH. The data was collected via Kaggle from the Rossmann Store Sales competition. After an exploratory data analysis and the use of an algorithm called boruta to select the best features for a prediction using a XGBoost Regressor Machine Learning model, we have achieved an average prediction of sales of **€285,338,016.00** for the next six weeks and implemented the solution in a way that is easily accessible for the company's business team.
 
 Tools used:
 1. Python 3.9.13
