@@ -15,14 +15,14 @@ I believe that my long experience in Education and History has given me good com
 This is a Learning to Rank (LTR) project in which the objective is to classify and rank clients interested in purchasing vehicle insurance. The company SafeHarbor Insurance is a fictitious insurance company made up by us, in order to provide a business context for our problem. The data have been acquired in the challenge Health Insurance Cross Sell Prediction from Kaggle, We perform a exploratory data analysis, train different classification Machine Learning models, evaluate the metrics, and test their results.
 
 Tools used:
-Python 3.10.10;
-VS Code;
-Jupyter Notebook;
-PostgreSQL;
-Git and Github;
-Render Cloud;
-Flask;
-Google Sheets Apps Script.
+1. Python 3.10.10;
+2. VS Code;
+3. Jupyter Notebook;
+4. PostgreSQL;
+5. Git and Github;
+6. Render Cloud;
+7. Flask;
+8. Google Sheets Apps Script.
 
 ### [Cardiovascular Disease Detection](https://github.com/pgdemiranda/cardio_predictor)
 This is a classification project where we were hired to develop a model that could help a medical company detect the onset of cardiovascular diseases among patients. Medical data was collected from Kaggle, and in the end, we achieved a classification model that, in the worst-case scenario, with 72% precision, could bring a return of **US$ 175,000,000.00**, and in the best-case scenario, with 78% precision, a profit of **US$ 210,000,000.00** could be expected.
