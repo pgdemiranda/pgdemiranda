@@ -10,12 +10,21 @@ To this moment, I am still developing my studies in the various tools used in Da
 I believe that my long experience in Education and History has given me good communication skills as well as the necessary competencies to present unconventional solutions in the field of Data Science.
 
 ## Data Science Projects:
+### [Insiders](https://github.com/pgdemiranda/insiders)
+This is a clustering project where we worked on segmenting customers for DataSmart, a fictitious e-commerce, with the purpose of creating a loyalty program called Insiders. The planned segmentation followed an RFM logic, where Recency can be considered as the time since the last purchase and the responsibility of our customers, Frequency as the time between transactions and their engagement on the platform, and Monetary as the total revenue and which high-value purchases were made. Using the data available on Kaggle, we carried out an end-to-end project with deployment on AWS, where we elected a cluster of 86 customers with an average gross revenue of US$4179.93.
 
-### **In Progress** [Insiders](https://github.com/pgdemiranda/insiders)
-This is a **Clusterization project**
+Tools used:
+1. Python 3.10.10;
+2. VS Code;
+3. Jupyter Notebook;
+4. YData-Profiling;
+5. Metabase;
+6. SQL: SQLite and PostgreSQL;
+7. Git and Github;
+8. Amazon Web Services: S3, RDS and EC2.
 
-### **In Progress** [Health Insurance Cross Sell](https://github.com/pgdemiranda/health_insurance-cs)
-This is a **Learning to Rank (LTR)** project in which the objective is to classify (therefore a **Classification** problem) and rank clients interested in purchasing vehicle insurance. The company SafeHarbor Insurance is a fictitious insurance company made up by us, in order to provide a business context for our problem. The data have been acquired in the challenge Health Insurance Cross Sell Prediction from Kaggle, We perform an exploratory data analysis, train different classification Machine Learning models, evaluate the metrics, and test their results.
+### [Health Insurance Cross Sell](https://github.com/pgdemiranda/health_insurance-cs)
+This is a **Learning to Rank (LTR)** project in which the objective is to classify and rank clients interested in purchasing vehicle insurance. The company SafeHarbor Insurance is a fictitious insurance company made up by us, in order to provide a business context for our problem. The data have been acquired in the challenge Health Insurance Cross Sell Prediction from Kaggle, We perform an exploratory data analysis, train different classification Machine Learning models, evaluate the metrics, and test their results.
 
 Tools used:
 1. Python 3.10.10;
@@ -28,7 +37,7 @@ Tools used:
 8. Google Sheets Apps Script.
 
 ### [Cardiovascular Disease Detection](https://github.com/pgdemiranda/cardio_predictor)
-This is a classification project where we were hired to develop a model that could help a medical company detect the onset of cardiovascular diseases among patients. Medical data was collected from Kaggle, and in the end, we achieved a classification model that, in the worst-case scenario, with 72% precision, could bring a return of **US$ 175,000,000.00**, and in the best-case scenario, with 78% precision, a profit of **US$ 210,000,000.00** could be expected.
+This is a **Classification** project where we were hired to develop a model that could help a medical company detect the onset of cardiovascular diseases among patients. Medical data was collected from Kaggle, and in the end, we achieved a classification model that, in the worst-case scenario, with 72% precision, could bring a return of **US$ 175,000,000.00**, and in the best-case scenario, with 78% precision, a profit of **US$ 210,000,000.00** could be expected.
 
 Tools used:
 1. Python 3.10.8;
