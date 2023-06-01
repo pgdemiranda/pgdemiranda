@@ -1,13 +1,12 @@
 ## Hello there,
 
-My name is Pablo Gomes de Miranda, 
+My name is Pablo Gomes de Miranda.
 
-I am looking for professional opportunities as a Data Scientist, especially where I can help companies make decisions that will lead to positive results through the use of Data.
-I have a bachelor's and a master's degree in History and a doctorate in Religious Studies with an international internship and experience in research and teaching in the Humanities.I have previous experience working as a History teacher in high school and as an adjunct professor in college lecturing about Ancient and Medieval History.
+I am actively seeking professional opportunities as a Data Scientist, with a particular interest in roles where I can utilize data to help companies make informed decisions that drive positive outcomes.
 
-To this moment, I am still developing my studies in the various tools used in Data Science, including some necessary projects seeking to implement this knowledge while building a portfolio. 
+While my educational background includes a bachelor's, master's, and PhD in different fields of Humanities, I am currently focusing on expanding my knowledge and skills in various tools used in Data Science. I am actively working on projects to build a portfolio that showcases my abilities.
 
-I believe that my long experience in Education and History has given me good communication skills as well as the necessary competencies to present unconventional solutions in the field of Data Science.
+I believe that my extensive experience in Education and History has equipped me with strong communication skills and the ability to offer unique solutions in the field of Data Science.
 
 ## Data Science Projects:
 ### [Insiders](https://github.com/pgdemiranda/insiders)
