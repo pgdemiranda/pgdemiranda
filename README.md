@@ -83,6 +83,14 @@ Tools Used:
 4. Git and Github;
 5. Streamlit Cloud.
 
+### [Data Professional Survey Breakdown](https://github.com/pgdemiranda/da_data_survey)
+Simple dashboard using **Microsoft Power BI** to demonstrate my data manipulation skills and ability to prepare dashboards with the appropriate tools. The data used was collected from a real survey conducted by a YouTube channel.
+
+Tools Used:
+1. Microsoft Power BI;
+2. Microsoft Excel;
+3. Github.
+
 ## You can reach me through my e-Mail or LinkedIn
 - pgdemiranda@gmail.com
 - https://www.linkedin.com/in/pablo-gomes-miranda/
