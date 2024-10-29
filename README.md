@@ -1,12 +1,22 @@
 ## Hello there,
 
-My name is Pablo Gomes de Miranda.
+## Hi, I'm **Pablo Gomes de Miranda**! 👋
 
-I am actively seeking professional opportunities as a Data Scientist, with a particular interest in roles where I can utilize data to help companies make informed decisions that drive positive outcomes.
+### Data Scientist | Data Engineering Enthusiast
 
-While my educational background includes a bachelor's, master's, and PhD in different fields of Humanities, I am currently focusing on expanding my knowledge and skills in various tools used in Data Science. I am actively working on projects to build a portfolio that showcases my abilities.
+I'm a **Data Scientist** with a passion for transforming data into meaningful insights. Originally from a background in the **Humanities** (BA, MA, PhD), I transitioned into **Data Science**, where I now focus on **Machine Learning**, **Deep Learning**, **NLP**, and **Data Engineering**.
 
-I believe that my extensive experience in Education and History has equipped me with strong communication skills and the ability to offer unique solutions in the field of Data Science.
+Currently, I'm pursuing a degree in **Data Science** while working on various projects that combine analytics with **data engineering** practices. My goal is to build scalable data solutions that drive impactful decision-making.
+
+### Key Skills:
+- **Data Science**: Predictive and descriptive modeling, data visualization, and analysis.
+- **Data Engineering**: Data pipelines, ETL/ELT processes, and cloud architecture.
+- **Tools**: Python, SQL, Kafka, Spark, Airflow, DBT, GCP, AWS, Metabase, Power BI etc.
+
+### Always Learning:
+I'm constantly expanding my knowledge, with a current focus on **Data Engineering** and **Cloud Computing** to better support data-driven projects.
+
+---
 
 ## Data Science Projects:
 ### [Insiders](https://github.com/pgdemiranda/insiders)
