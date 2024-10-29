@@ -1,6 +1,4 @@
-## Hello there,
-
-## Hi, I'm **Pablo Gomes de Miranda**! 👋
+## Hello there, I'm **Pablo Gomes de Miranda**
 
 ### Data Scientist | Data Engineering Enthusiast
 
